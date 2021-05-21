@@ -16,7 +16,7 @@ main:
     #url: /year-archive/
     
   - title: "CV"
-    url: files/CV_Latest-5.pdf
+    url: "https://github.com/MoeinGhaniyoun/Tempo/blob/master/files/CV_Latest-5.pdf"
     
   #- title: "Guide"
     #url: /markdown/
