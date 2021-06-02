@@ -19,7 +19,7 @@ Publications
 **2021**  |  ⚫[IntroSpectre: A Pre-Silicon Framework for Discovery and Analysis of Transient Execution Vulnerabilities](https://moeinghaniyoun.github.io/files/IntroSpectre.pdf)<br />
 **Moein Ghaniyoun**, Kristin Barber, Yinqian Zhang, Radu Teodorescu<br />
 Proceedings of the ACM/IEEE 48th Annual International Symposium on Computer Architecture (**ISCA**), Online, June 2021.<br />
-[[PDF]](https://moeinghaniyoun.github.io/files/IntroSpectre.pdf)[[Slides]](https://moeinghaniyoun.github.io/files/IntroSpectre.pdf)
+[[PDF]](https://moeinghaniyoun.github.io/files/IntroSpectre.pdf)[[Slides]](https://moeinghaniyoun.github.io/files/IntroSpectre.ppsx)
 
 ---
 
