@@ -15,6 +15,10 @@ Publications
 ======
 
 ---
+**2022**  |  ⚫A Pre-Silicon Approach to Discovering Microarchitectural Vulnerabilities in Security Critical Applications<br />
+Kristin Barber, **Moein Ghaniyoun** Yinqian Zhang, Radu Teodorescu<br />
+Computer Architecture Letters (**CAL**), Jan 2022.<br />
+*PDF will be available soon*
 
 **2021**  |  ⚫[IntroSpectre: A Pre-Silicon Framework for Discovery and Analysis of Transient Execution Vulnerabilities](https://moeinghaniyoun.github.io/files/IntroSpectre.pdf)<br />
 **Moein Ghaniyoun**, Kristin Barber, Yinqian Zhang, Radu Teodorescu<br />
