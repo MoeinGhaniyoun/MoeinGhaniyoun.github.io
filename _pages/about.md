@@ -15,7 +15,7 @@ Publications
 ======
 
 ---
-**2022**  |  ⚫A Pre-Silicon Approach to Discovering Microarchitectural Vulnerabilities in Security Critical Applications<br />
+**2022**  |  ⚫[A Pre-Silicon Approach to Discovering Microarchitectural Vulnerabilities in Security Critical Applications] (https://ieeexplore.ieee.org/document/9713708)<br />
 Kristin Barber, **Moein Ghaniyoun**, Yinqian Zhang, Radu Teodorescu<br />
 Computer Architecture Letters (**CAL**), Jan 2022.<br />
 *PDF will be available soon*
