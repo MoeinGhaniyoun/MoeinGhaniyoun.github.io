@@ -15,14 +15,14 @@ Publications
 ======
 
 ---
-**2023**  |  ⚫ [TEESec: Pre-Silicon Vulnerability Discovery for Trusted Execution Environments]
+**2023**  |  ⚫ TEESec: Pre-Silicon Vulnerability Discovery for Trusted Execution Environments
 **Moein Ghaniyoun**, Kristin Barber, Yuan Xiao, Yinqian Zhang, Radu Teodorescu<br />
 Proceedings of the ACM/IEEE 50th Annual International Symposium on Computer Architecture (**ISCA**), Orlando,FL , June 2023.<br />
 *PDF will be available soon*
 
 **2022**  |  ⚫ [A Pre-Silicon Approach to Discovering Microarchitectural Vulnerabilities in Security Critical Applications](https://ieeexplore.ieee.org/document/9713708)<br />
 Kristin Barber, **Moein Ghaniyoun**, Yinqian Zhang, Radu Teodorescu<br />
-Computer Architecture Letters (**CAL**), Jan 2022. **(BEST of CAL 2022)<br />
+Computer Architecture Letters (**CAL**), Jan 2022. **(BEST of CAL 2022)**<br />
 [[PDF]](https://ieeexplore.ieee.org/document/9713708)
 
 **2021**  |  ⚫ [IntroSpectre: A Pre-Silicon Framework for Discovery and Analysis of Transient Execution Vulnerabilities](https://moeinghaniyoun.github.io/files/IntroSpectre.pdf)<br />
