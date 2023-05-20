@@ -15,7 +15,7 @@ Publications
 ======
 
 ---
-**2023**  |  ⚫ TEESec: Pre-Silicon Vulnerability Discovery for Trusted Execution Environments
+**2023**  |  ⚫ [TEESec: Pre-Silicon Vulnerability Discovery for Trusted Execution Environments](https://moeinghaniyoun.github.io/files/TEESec.pdf)<br />
 **Moein Ghaniyoun**, Kristin Barber, Yuan Xiao, Yinqian Zhang, Radu Teodorescu<br />
 Proceedings of the ACM/IEEE 50th Annual International Symposium on Computer Architecture (**ISCA**), Orlando, FL, June 2023.<br />
 [[PDF]](https://moeinghaniyoun.github.io/files/TEESec.pdf)
